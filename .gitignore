@@ -1,12 +1,18 @@
 # Dependencies
 node_modules/
+client/node_modules/
 /.pnp
 .pnp.js
 
 # Testing
 /coverage
+coverage/
 
 # Production build artifacts
+dist/
+client/dist/
+build/
+client/build/
 /dist
 /build
 
